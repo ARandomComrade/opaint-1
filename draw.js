@@ -71,7 +71,7 @@ $( document ).ready(function(e){
 	//$('#acceptfile').onchange(function (e) {
 	//	context.drawImage(img,0,0);
     //});
-    $("#flat").spectrum({
+    $('#flat').spectrum({
         flat: true,
         showInput: true
     });
