@@ -1,0 +1,18 @@
+body{
+	background-color: #addbed;
+}
+h1{
+	font-family: sans-serif;
+	color: gray;
+	text-align: center;
+}
+#canvas{
+	margin: auto;
+	border:1px solid #000000;
+	background-color: white;
+	display: block;
+}
+#clearbutton{
+	margin: auto;
+	display: block;
+}
